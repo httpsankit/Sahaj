@@ -1,0 +1,1480 @@
+{
+  "AN01": {    "name": "PORT BLAIR -- AN01",    "state": "Andaman and Nicobar"},  "AP221": {"name": "ADONI (UO) -- AP221","state": "Andhra Pradesh"
+  },
+  "AP205": {"name": "AMALAPURAM (RTA) -- AP205","state": "Andhra Pradesh"
+  },
+  "AP131": {"name": "ANAKAPALLI (RTA) -- AP131","state": "Andhra Pradesh"
+  },
+  "AP104": {"name": "BADVEL (MVIO) -- AP104","state": "Andhra Pradesh"
+  },
+  "AP207": {"name": "BAPATLA (RTA) -- AP207","state": "Andhra Pradesh"
+  },
+  "AP307": {"name": "CHILAKALURIPETA  -- AP307","state": "Andhra Pradesh"
+  },
+  "AP427": {"name": "DARSI -- AP427","state": "Andhra Pradesh"
+  },
+  "AP602": {"name": "DHARMAVARAM UNIT OFFICE -- AP602","state": "Andhra Pradesh"
+  },
+  "AP116": {"name": "GUDIVADA -- AP116","state": "Andhra Pradesh"
+  },
+  "AP226": {"name": "GUDUR -- AP226","state": "Andhra Pradesh"
+  },
+  "AP130": {"name": "ITCHAPURAM -- AP130","state": "Andhra Pradesh"
+  },
+  "AP616": {"name": "JAGGAYYAPET -- AP616","state": "Andhra Pradesh"
+  },
+  "AP004": {"name": "KADAPA -- AP004","state": "Andhra Pradesh"
+  },
+  "AP302": {"name": "KADIRI RTA -- AP302","state": "Andhra Pradesh"
+  },
+  "AP702": {"name": "KALYANDURG RTA -- AP702","state": "Andhra Pradesh"
+  },
+  "AP227": {"name": "KANDUKUR -- AP227","state": "Andhra Pradesh"
+  },
+  "AP326": {"name": "KAVALI (MVI) -- AP326","state": "Andhra Pradesh"
+  },
+  "AP407": {"name": "MACHERLA -- AP407","state": "Andhra Pradesh"
+  },
+  "AP203": {"name": "MADANAPALLI RTA -- AP203","state": "Andhra Pradesh"
+  },
+  "AP405": {"name": "MANDAPETA -- AP405","state": "Andhra Pradesh"
+  },
+  "AP507": {"name": "MANGALAGIRI -- AP507","state": "Andhra Pradesh"
+  },
+  "AP327": {"name": "MARKAPUR -- AP327","state": "Andhra Pradesh"
+  },
+  "AP321": {"name": "MVI OFFICE ATMAKUR-KURNOOL -- AP321","state": "Andhra Pradesh"
+  },
+  "AP126": {"name": "MVI OFFICE ATMAKUR (SPS NELLORE) -- AP126","state": "Andhra Pradesh"
+  },
+  "AP905": {"name": "MVI OFFICE CHINTOOR -- AP905","state": "Andhra Pradesh"
+  },
+  "AP421": {"name": "MVI OFFICE DHONE -- AP421","state": "Andhra Pradesh"
+  },
+  "AP503": {"name": "MVI OFFICE PUTTOR -- AP503","state": "Andhra Pradesh"
+  },
+  "AP603": {"name": "MVI OFFICE SRIKALAHASTHI  -- AP603","state": "Andhra Pradesh"
+  },
+  "AP114": {"name": "NAGARI MVI OFFICE -- AP114","state": "Andhra Pradesh"
+  },
+  "AP107": {"name": "NARSARAOPET -- AP107","state": "Andhra Pradesh"
+  },
+  "AP331": {"name": "NARSIPATNAM -- AP331","state": "Andhra Pradesh"
+  },
+  "AP026": {"name": "NELLORE -- AP026","state": "Andhra Pradesh"
+  },
+  "AP041": {"name": "PADERU -- AP041","state": "Andhra Pradesh"
+  },
+  "AP230": {"name": "PALAKONDA -- AP230","state": "Andhra Pradesh"
+  },
+  "AP303": {"name": "PALAMANER -- AP303","state": "Andhra Pradesh"
+  },
+  "AP330": {"name": "PALASA -- AP330","state": "Andhra Pradesh"
+  },
+  "AP135": {"name": "PARVATHIPURAM -- AP135","state": "Andhra Pradesh"
+  },
+  "AP505": {"name": "PEDDAPURAM -- AP505","state": "Andhra Pradesh"
+  },
+  "AP607": {"name": "PIDUGURALLA (UO) -- AP607","state": "Andhra Pradesh"
+  },
+  "AP403": {"name": "PILER -- AP403","state": "Andhra Pradesh"
+  },
+  "AP204": {"name": "PRODDUTUR (RTO) -- AP204","state": "Andhra Pradesh"
+  },
+  "AP304": {"name": "PULIVENDULA -- AP304","state": "Andhra Pradesh"
+  },
+  "AP404": {"name": "RAJAMPET -- AP404","state": "Andhra Pradesh"
+  },
+  "AP141": {"name": "RAMPACHODAVARAM RTA OFFICE  -- AP141","state": "Andhra Pradesh"
+  },
+  "AP705": {"name": "RAVULAPALEM -- AP705","state": "Andhra Pradesh"
+  },
+  "AP504": {"name": "RAYACHOTI -- AP504","state": "Andhra Pradesh"
+  },
+  "AP002": {"name": "RTA ANANTAPUR -- AP002","state": "Andhra Pradesh"
+  },
+  "AP137": {"name": "RTA BHIMAVARAM -- AP137","state": "Andhra Pradesh"
+  },
+  "AP005": {"name": "RTA EAST GODAVARI-KAKINADA -- AP005","state": "Andhra Pradesh"
+  },
+  "AP231": {"name": "RTA GAJUWAKA -- AP231","state": "Andhra Pradesh"
+  },
+  "AP007": {"name": "RTA GUNTUR -- AP007","state": "Andhra Pradesh"
+  },
+  "AP102": {"name": "RTA HINDUPUR -- AP102","state": "Andhra Pradesh"
+  },
+  "AP021": {"name": "RTA KURNOOL -- AP021","state": "Andhra Pradesh"
+  },
+  "AP216": {"name": "RTA MACHILIPATNAM -- AP216","state": "Andhra Pradesh"
+  },
+  "AP316": {"name": "RTA NANDIGAMA -- AP316","state": "Andhra Pradesh"
+  },
+  "AP121": {"name": "RTA NANDYAL -- AP121","state": "Andhra Pradesh"
+  },
+  "AP003": {"name": "RTA OFFICE CHITTOOR -- AP003","state": "Andhra Pradesh"
+  },
+  "AP027": {"name": "RTA PRAKASHAM -- AP027","state": "Andhra Pradesh"
+  },
+  "AP105": {"name": "RTA RAJAHMUNDRY -- AP105","state": "Andhra Pradesh"
+  },
+  "AP030": {"name": "RTA SRIKAKULAM -- AP030","state": "Andhra Pradesh"
+  },
+  "AP037": {"name": "RTA WEST GODAVARI - ELURU -- AP037","state": "Andhra Pradesh"
+  },
+  "AP235": {"name": "SALUR -- AP235","state": "Andhra Pradesh"
+  },
+  "AP426": {"name": "SULLURPET -- AP426","state": "Andhra Pradesh"
+  },
+  "AP437": {"name": "TADEPALLIGUDEM -- AP437","state": "Andhra Pradesh"
+  },
+  "AP430": {"name": "TEKKALI -- AP430","state": "Andhra Pradesh"
+  },
+  "AP707": {"name": "TENALI -- AP707","state": "Andhra Pradesh"
+  },
+  "AP103": {"name": "TIRUPATHI (RTO) -- AP103","state": "Andhra Pradesh"
+  },
+  "AP127": {"name": "UNIT OFFICE CHIRALA -- AP127","state": "Andhra Pradesh"
+  },
+  "AP202": {"name": "UNIT OFFICE GUNTAKAL -- AP202","state": "Andhra Pradesh"
+  },
+  "AP237": {"name": "UNIT OFFICE JANGAREDDY GUDEM -- AP237","state": "Andhra Pradesh"
+  },
+  "AP305": {"name": "UNIT OFFICE KATHIPUDI -- AP305","state": "Andhra Pradesh"
+  },
+  "AP337": {"name": "UNIT OFFICE KOVVURU -- AP337","state": "Andhra Pradesh"
+  },
+  "AP416": {"name": "UNIT OFFICE NUZVID -- AP416","state": "Andhra Pradesh"
+  },
+  "AP637": {"name": "UNIT OFFICE PALAKOLE -- AP637","state": "Andhra Pradesh"
+  },
+  "AP113": {"name": "UNIT OFFICE PUNGANUR -- AP113","state": "Andhra Pradesh"
+  },
+  "AP605": {"name": "UNIT OFFICE RAMANCHANDRAPURAM -- AP605","state": "Andhra Pradesh"
+  },
+  "AP502": {"name": "UNIT OFFICE RAYADURG -- AP502","state": "Andhra Pradesh"
+  },
+  "AP402": {"name": "UNIT OFFICE TADIPATRI -- AP402","state": "Andhra Pradesh"
+  },
+  "AP537": {"name": "UNIT OFFICE TANUKU -- AP537","state": "Andhra Pradesh"
+  },
+  "AP516": {"name": "UNIT OFFICE VUYYURU -- AP516","state": "Andhra Pradesh"
+  },
+  "AP837": {"name": "UO DEVARAPALLI -- AP837","state": "Andhra Pradesh"
+  },
+  "AP016": {"name": "VIJAYAWADA RTA -- AP016","state": "Andhra Pradesh"
+  },
+  "AP031": {"name": "VISAKHAPATNAM -- AP031","state": "Andhra Pradesh"
+  },
+  "AP035": {"name": "VIZIANAGARAM (RTO) -- AP035","state": "Andhra Pradesh"
+  },"AR08": {"name": "AALO -- AR08","state": "Arunachal Pradesh"
+  },
+  "AR10": {"name": "ANINI -- AR10","state": "Arunachal Pradesh"
+  },
+  "AR04": {"name": "BOMDILA -- AR04","state": "Arunachal Pradesh"
+  },
+  "AR12": {"name": "CHANGLANG -- AR12","state": "Arunachal Pradesh"
+  },
+  "AR07": {"name": "DAPORIJO -- AR07","state": "Arunachal Pradesh"
+  },
+  "AR23": {"name": "DTO KAMLE -- AR23","state": "Arunachal Pradesh"
+  },
+  "AR19": {"name": "DTO KRA DAADI -- AR19","state": "Arunachal Pradesh"
+  },
+  "AR25": {"name": "DTO LEPARADA -- AR25","state": "Arunachal Pradesh"
+  },
+  "AR22": {"name": "DTO LIKABALI -- AR22","state": "Arunachal Pradesh"
+  },
+  "AR18": {"name": "DTO LONGDING -- AR18","state": "Arunachal Pradesh"
+  },
+  "AR26": {"name": "DTO MECHUKA -- AR26","state": "Arunachal Pradesh"
+  },
+  "AR24": {"name": "DTO PAKKE KESANG -- AR24","state": "Arunachal Pradesh"
+  },
+  "AR21": {"name": "DTO SIANG -- AR21","state": "Arunachal Pradesh"
+  },
+  "AR17": {"name": "HAWAI -- AR17","state": "Arunachal Pradesh"
+  },
+  "AR01": {"name": "ITANAGAR -- AR01","state": "Arunachal Pradesh"
+  },
+  "AR13": {"name": "KHONSA -- AR13","state": "Arunachal Pradesh"
+  },
+  "AR15": {"name": "KOLORIANG -- AR15","state": "Arunachal Pradesh"
+  },
+  "AR20": {"name": "NAMSAI -- AR20","state": "Arunachal Pradesh"
+  },
+  "AR28": {"name": "Napangphung -- AR28","state": "Arunachal Pradesh"
+  },
+  "AR09": {"name": "PASIGHAT -- AR09","state": "Arunachal Pradesh"
+  },
+  "AR16": {"name": "ROING -- AR16","state": "Arunachal Pradesh"
+  },
+  "AR05": {"name": "SEPPA -- AR05","state": "Arunachal Pradesh"
+  },
+  "AR03": {"name": "TAWANG -- AR03","state": "Arunachal Pradesh"
+  },
+  "AR11": {"name": "TEZU -- AR11","state": "Arunachal Pradesh"
+  },
+  "AR27": {"name": "YACHULI -- AR27","state": "Arunachal Pradesh"
+  },
+  "AR14": {"name": "YINGKIONG -- AR14","state": "Arunachal Pradesh"
+  },
+  "AR02": {"name": "YUPIA -- AR02","state": "Arunachal Pradesh"
+  },
+  "AR06": {"name": "ZIRO -- AR06","state": "Arunachal Pradesh"
+  },"AS25": {"name": "AMINGAON -- AS25","state": "Assam"
+  },
+  "AS28": {"name": "BAKSA -- AS28","state": "Assam"
+  },
+  "AS15": {"name": "BARPETA -- AS15","state": "Assam"
+  },
+  "AS32": {"name": "BISWANATH CHARIALI -- AS32","state": "Assam"
+  },
+  "AS19": {"name": "BONGAIGAON -- AS19","state": "Assam"
+  },
+  "AS33": {"name": "CHARAIDEO -- AS33","state": "Assam"
+  },
+  "AS26": {"name": "CHIRANG -- AS26","state": "Assam"
+  },
+  "AS13": {"name": "DARRANG -- AS13","state": "Assam"
+  },
+  "AS22": {"name": "DHEMAJI -- AS22","state": "Assam"
+  },
+  "AS17": {"name": "DHUBRI (DTO) -- AS17","state": "Assam"
+  },
+  "AS06": {"name": "DIBRUGARH -- AS06","state": "Assam"
+  },
+  "AS08": {"name": "DIMA HASAO -- AS08","state": "Assam"
+  },
+  "AS18": {"name": "GOALPARA -- AS18","state": "Assam"
+  },
+  "AS05": {"name": "GOLAGHAT -- AS05","state": "Assam"
+  },
+  "AS24": {"name": "HAILAKANDI -- AS24","state": "Assam"
+  },
+  "AS31": {"name": "HOJAI -- AS31","state": "Assam"
+  },
+  "AS03": {"name": "JORHAT -- AS03","state": "Assam"
+  },
+  "AS01": {"name": "KAMRUP(M) -- AS01","state": "Assam"
+  },
+  "AS09": {"name": "KARBI ANGLONG -- AS09","state": "Assam"
+  },
+  "AS10": {"name": "KARIMGANJ (DTO) -- AS10","state": "Assam"
+  },
+  "AS16": {"name": "KOKRAJHAR -- AS16","state": "Assam"
+  },
+  "AS07": {"name": "LAKHIMPUR -- AS07","state": "Assam"
+  },
+  "AS29": {"name": "MAJULI -- AS29","state": "Assam"
+  },
+  "AS21": {"name": "MORIGAON -- AS21","state": "Assam"
+  },
+  "AS02": {"name": "NAGAON -- AS02","state": "Assam"
+  },
+  "AS14": {"name": "NALBARI -- AS14","state": "Assam"
+  },
+  "AS11": {"name": "SILCHAR -- AS11","state": "Assam"
+  },
+  "AS04": {"name": "SIVSAGAR -- AS04","state": "Assam"
+  },
+  "AS12": {"name": "SONITPUR -- AS12","state": "Assam"
+  },
+  "AS34": {"name": "SOUTH SALMARA -- AS34","state": "Assam"
+  },
+  "AS23": {"name": "TINSUKIA -- AS23","state": "Assam"
+  },
+  "AS27": {"name": "UDALGURI -- AS27","state": "Assam"
+  },"BR38": {"name": "ARARIA -- BR38","state": "Bihar"
+  },
+  "BR56": {"name": "ARAWAL -- BR56","state": "Bihar"
+  },
+  "BR26": {"name": "AURANGABAD -- BR26","state": "Bihar"
+  },
+  "BR51": {"name": "BANKA -- BR51","state": "Bihar"
+  },
+  "BR09": {"name": "BEGUSARAI -- BR09","state": "Bihar"
+  },
+  "BR22": {"name": "BETTIAH -- BR22","state": "Bihar"
+  },
+  "BR45": {"name": "BHABHUA -- BR45","state": "Bihar"
+  },
+  "BR10": {"name": "BHAGALPUR -- BR10","state": "Bihar"
+  },
+  "BR03": {"name": "BHOJPUR -- BR03","state": "Bihar"
+  },
+  "BR44": {"name": "BUXUR -- BR44","state": "Bihar"
+  },
+  "BR04": {"name": "CHAPARA -- BR04","state": "Bihar"
+  },
+  "BR07": {"name": "DARBHANGA -- BR07","state": "Bihar"
+  },
+  "BR02": {"name": "GAYA -- BR02","state": "Bihar"
+  },
+  "BR28": {"name": "GOPALGANJ -- BR28","state": "Bihar"
+  },
+  "BR46": {"name": "JAUMUI -- BR46","state": "Bihar"
+  },
+  "BR25": {"name": "JEHANABAD -- BR25","state": "Bihar"
+  },
+  "BR39": {"name": "KATIHAR -- BR39","state": "Bihar"
+  },
+  "BR34": {"name": "KHAGARIA -- BR34","state": "Bihar"
+  },
+  "BR37": {"name": "KISHANGANJ -- BR37","state": "Bihar"
+  },
+  "BR53": {"name": "LAKHISARAI -- BR53","state": "Bihar"
+  },
+  "BR43": {"name": "MADHEPURA -- BR43","state": "Bihar"
+  },
+  "BR32": {"name": "MADHUBANI -- BR32","state": "Bihar"
+  },
+  "BR05": {"name": "MOTIHARI -- BR05","state": "Bihar"
+  },
+  "BR08": {"name": "MUNGER -- BR08","state": "Bihar"
+  },
+  "BR06": {"name": "MUZAFFARPUR -- BR06","state": "Bihar"
+  },
+  "BR21": {"name": "NALANDA -- BR21","state": "Bihar"
+  },
+  "BR27": {"name": "NAWADAH -- BR27","state": "Bihar"
+  },
+  "BR01": {"name": "PHULWARI SHARIF, PATNA -- BR01","state": "Bihar"
+  },
+  "BR11": {"name": "PURNEA -- BR11","state": "Bihar"
+  },
+  "BR24": {"name": "ROHTAS -- BR24","state": "Bihar"
+  },
+  "BR19": {"name": "SAHARSA -- BR19","state": "Bihar"
+  },
+  "BR33": {"name": "SAMASTIPUR -- BR33","state": "Bihar"
+  },
+  "BR52": {"name": "SHEIKHPURA -- BR52","state": "Bihar"
+  },
+  "BR55": {"name": "SHEOHAR -- BR55","state": "Bihar"
+  },
+  "BR30": {"name": "SITAMARHI -- BR30","state": "Bihar"
+  },
+  "BR29": {"name": "SIWAN -- BR29","state": "Bihar"
+  },
+  "BR50": {"name": "SUPAUL -- BR50","state": "Bihar"
+  },
+  "BR31": {"name": "VAISHALI -- BR31","state": "Bihar"
+  },
+  "CH01": {"name": "CHANDIGARH -- CH01","state": "Chandigarh"
+  },"DL3": {"name": "BACKEND OFFICE,SARAI KALE KHAN -- DL3","state": "Delhi"
+  },
+  "DL6": {"name": "CENTRAL DELHI,SARAI KALE KHAN -- DL6","state": "Delhi"
+  },
+  "DL7": {"name": "EAST DELHI,MAYUR VIHAR PH-I -- DL7","state": "Delhi"
+  },
+  "DL13": {"name": "EAST ZONE-II,  SURAJMAL VIHAR -- DL13","state": "Delhi"
+  },
+  "DL2": {"name": "I P ESTATE -- DL2","state": "Delhi"
+  },
+  "DL5": {"name": "NORTH EAST DELHI, LONI ROAD -- DL5","state": "Delhi"
+  },
+  "DL11": {"name": "NORTH WEST DISTRICT-II, ROHINI -- DL11","state": "Delhi"
+  },
+  "DL8": {"name": "NORTH WEST, WAZIRPUR -- DL8","state": "Delhi"
+  },
+  "DL1": {"name": "NORTH ZONE, MALL ROAD -- DL1","state": "Delhi"
+  },
+  "DL9": {"name": "SOUTH WEST DELHI,DWARKA -- DL9","state": "Delhi"
+  },
+  "DL12": {"name": "SOUTH WEST ,VASANT VIHAR -- DL12","state": "Delhi"
+  },
+  "DL4": {"name": "WEST DELHI, JANAKPURI -- DL4","state": "Delhi"
+  },
+  "DL10": {"name": "WEST DISTT-II, RAJOURI GARDEN -- DL10","state": "Delhi"
+  },
+  "GA04": {"name": "BICHOLIM -- GA04","state": "Goa"
+  },
+  "GA10": {"name": "CANACONA -- GA10","state": "Goa"
+  },
+  "GA12": {"name": "DHARBANDORA -- GA12","state": "Goa"
+  },
+  "GA03": {"name": "MAPUSA -- GA03","state": "Goa"
+  },
+  "GA08": {"name": "MARGAO -- GA08","state": "Goa"
+  },
+  "GA07": {"name": "PANAJI -- GA07","state": "Goa"
+  },
+  "GA11": {"name": "PERNEM -- GA11","state": "Goa"
+  },
+  "GA05": {"name": "PONDA -- GA05","state": "Goa"
+  },
+  "GA09": {"name": "QUEPEM -- GA09","state": "Goa"
+  },
+  "GA06": {"name": "VASCO -- GA06","state": "Goa"
+  },"GJ27": {"name": "AHMEDABAD(EAST) -- GJ27","state": "Gujarat"
+  },
+  "GJ01": {"name": "AHMEDABAD (RTO) -- GJ01","state": "Gujarat"
+  },
+  "GJ35": {"name": "MAHISAGAR (LUNAVADA) -- GJ35","state": "Gujarat"
+  },
+  "GJ33": {"name": "BOTAD -- GJ33","state": "Gujarat"
+  },
+  "GJ18": {"name": "GANDHINAGAR -- GJ18","state": "Gujarat"
+  },
+  "GJ09": {"name": "SABARKANTHA -- GJ09","state": "Gujarat"
+  },
+  "GJ24": {"name": "PATAN -- GJ24","state": "Gujarat"
+  },
+  "GJ39": {"name": "RTO ANJAR -- GJ39","state": "Gujarat"
+  },
+  "GJ07": {"name": "NADIAD -- GJ07","state": "Gujarat"
+  },
+  "GJ36": {"name": "MORBI -- GJ36","state": "Gujarat"
+  },
+  "GJ21": {"name": "NAVSARI -- GJ21","state": "Gujarat"
+  },
+  "GJ38": {"name": "BAVLA -- GJ38","state": "Gujarat"
+  },
+  "GJ04": {"name": "BHAVNAGAR -- GJ04","state": "Gujarat"
+  },
+  "GJ03": {"name": "RAJKOT -- GJ03","state": "Gujarat"
+  },
+  "GJ13": {"name": "SURENDRANGAR -- GJ13","state": "Gujarat"
+  },
+  "GJ26": {"name": "VYARA -- GJ26","state": "Gujarat"
+  },
+  "GJ23": {"name": "ANAND -- GJ23","state": "Gujarat"
+  },
+  "GJ16": {"name": "BHARUCH -- GJ16","state": "Gujarat"
+  },
+  "GJ37": {"name": "KHAMBHALIYA, DEVBHUMI DWARKA -- GJ37","state": "Gujarat"
+  },
+  "GJ20": {"name": "DAHOD -- GJ20","state": "Gujarat"
+  },
+  "GJ19": {"name": "BARDOLI -- GJ19","state": "Gujarat"
+  },
+  "GJ02": {"name": "MEHSANA -- GJ02","state": "Gujarat"
+  },
+  "GJ15": {"name": "VALSAD -- GJ15","state": "Gujarat"
+  },
+  "GJ14": {"name": "AMRELI -- GJ14","state": "Gujarat"
+  },
+  "GJ22": {"name": "NARMADA -- GJ22","state": "Gujarat"
+  },
+  "GJ08": {"name": "BANASKANTHA -- GJ08","state": "Gujarat"
+  },
+  "GJ06": {"name": "VADODARA -- GJ06","state": "Gujarat"
+  },
+  "GJ11": {"name": "JUNAGADH -- GJ11","state": "Gujarat"
+  },
+  "GJ32": {"name": "GIRSOMNATH -- GJ32","state": "Gujarat"
+  },
+  "GJ30": {"name": "AAHWA -- GJ30","state": "Gujarat"
+  },
+  "GJ25": {"name": "PORBANDAR -- GJ25","state": "Gujarat"
+  },
+  "GJ34": {"name": "CHHOTAUDAIPUR -- GJ34","state": "Gujarat"
+  },
+  "GJ05": {"name": "SURAT -- GJ05","state": "Gujarat"
+  },
+  "GJ31": {"name": "ARVALLI (MODASA) -- GJ31","state": "Gujarat"
+  },
+  "GJ12": {"name": "BHUJ-KACHCHH -- GJ12","state": "Gujarat"
+  },
+  "GJ10": {"name": "JAMNAGAR -- GJ10","state": "Gujarat"
+  },
+  "GJ17": {"name": "GODHRA -- GJ17","state": "Gujarat"
+  },"HR85": {"name": "AMBALA CANTT (Non Transport) -- HR85","state": "Haryana"
+  },
+  "HR01": {"name": "AMBALA CITY (Non Transport) -- HR01","state": "Haryana"
+  },
+  "HR37": {"name": "AMBALA (Transport) -- HR37","state": "Haryana"
+  },
+  "HR40": {"name": "ASSANDH (Non Transport) -- HR40","state": "Haryana"
+  },
+  "HR88": {"name": "BADHRA (Non Transport) -- HR88","state": "Haryana"
+  },
+  "HR87": {"name": "BADKHAL  -- HR87","state": "Haryana"
+  },
+  "HR89": {"name": "BADLI (Non Transport) -- HR89","state": "Haryana"
+  },
+  "HR98": {"name": "BADSHAHPUR -- HR98","state": "Haryana"
+  },
+  "HR13": {"name": "BAHADURGARH (Non Transport) -- HR13","state": "Haryana"
+  },
+  "HR29": {"name": "BALLABGARH (Non Transport) -- HR29","state": "Haryana"
+  },
+  "HR54": {"name": "BARARA (Non Transport) -- HR54","state": "Haryana"
+  },
+  "HR80": {"name": "BARWALA (Non Transport) -- HR80","state": "Haryana"
+  },
+  "HR81": {"name": "BAWAL (Non Transport) -- HR81","state": "Haryana"
+  },
+  "HR77": {"name": "BERI (Non Transport) -- HR77","state": "Haryana"
+  },
+  "HR16": {"name": "BHIWANI (Non Transport) -- HR16","state": "Haryana"
+  },
+  "HR61": {"name": "BHIWANI (Transport) -- HR61","state": "Haryana"
+  },
+  "HR71": {"name": "BILASPUR (Non Transport) -- HR71","state": "Haryana"
+  },
+  "HR19": {"name": "CHARKHI DADRI (Non Transport) -- HR19","state": "Haryana"
+  },
+  "HR84": {"name": "CHARKHI DADRI (Transport) -- HR84","state": "Haryana"
+  },
+  "HR25": {"name": "DABWALI (Non Transport) -- HR25","state": "Haryana"
+  },
+  "HR44": {"name": "ELLENABAD (Non Transport) -- HR44","state": "Haryana"
+  },
+  "HR51": {"name": "FARIDABAD (Non Transport) -- HR51","state": "Haryana"
+  },
+  "HR38": {"name": "FARIDABAD (Transport) -- HR38","state": "Haryana"
+  },
+  "HR62": {"name": "FATEHABAD  -- HR62","state": "Haryana"
+  },
+  "HR22": {"name": "FATEHABAD (Non Transport) -- HR22","state": "Haryana"
+  },
+  "HR28": {"name": "FEROZEPUR ZIRKHA (Non Transport) -- HR28","state": "Haryana"
+  },
+  "HR42": {"name": "GANAUR (Non Transport) -- HR42","state": "Haryana"
+  },
+  "HR91": {"name": "GHARAUNDA (Non Transport) -- HR91","state": "Haryana"
+  },
+  "HR11": {"name": "GOHANA (Non Transport) -- HR11","state": "Haryana"
+  },
+  "HR09": {"name": "GUHLA (Non Transport) -- HR09","state": "Haryana"
+  },
+  "HR26": {"name": "GURUGRAM (NON TRANSPORT) -- HR26","state": "Haryana"
+  },
+  "HR72": {"name": "GURUGRAM(SOHNA)(NON TRANSPORT) -- HR72","state": "Haryana"
+  },
+  "HR55": {"name": "GURUGRAM (Transport) -- HR55","state": "Haryana"
+  },
+  "HR21": {"name": "HANSI (Non Transport) -- HR21","state": "Haryana"
+  },
+  "HR52": {"name": "HATHIN (Non Transport) -- HR52","state": "Haryana"
+  },
+  "HR20": {"name": "HISAR (Non Transport) -- HR20","state": "Haryana"
+  },
+  "HR39": {"name": "HISAR (Transport) -- HR39","state": "Haryana"
+  },
+  "HR50": {"name": "HODEL (Non Transport) -- HR50","state": "Haryana"
+  },
+  "HR75": {"name": "INDIRI (Non Transport) -- HR75","state": "Haryana"
+  },
+  "HR02": {"name": "JAGADHARI (Non Transport) -- HR02","state": "Haryana"
+  },
+  "HR14": {"name": "JHAJJAR (Non Transport) -- HR14","state": "Haryana"
+  },
+  "HR63": {"name": "JHAJJAR (Transport) -- HR63","state": "Haryana"
+  },
+  "HR31": {"name": "JIND (Non Transport) -- HR31","state": "Haryana"
+  },
+  "HR56": {"name": "JIND (Transport) -- HR56","state": "Haryana"
+  },
+  "HR08": {"name": "KAITHAL (Non Transport) -- HR08","state": "Haryana"
+  },
+  "HR64": {"name": "KAITHAL (Transport) -- HR64","state": "Haryana"
+  },
+  "HR94": {"name": "KALANWALI (Non Transport) -- HR94","state": "Haryana"
+  },
+  "HR83": {"name": "KALAYAT (Non Transport) -- HR83","state": "Haryana"
+  },
+  "HR49": {"name": "KALKA (Non Transport) -- HR49","state": "Haryana"
+  },
+  "HR82": {"name": "KANINA (Non Transport) -- HR82","state": "Haryana"
+  },
+  "HR05": {"name": "KARNAL (Non Transport) -- HR05","state": "Haryana"
+  },
+  "HR45": {"name": "KARNAL (Transport) -- HR45","state": "Haryana"
+  },
+  "HR79": {"name": "KHARKHODA (Non Transport) -- HR79","state": "Haryana"
+  },
+  "HR43": {"name": "KOSLI (Non Transport) -- HR43","state": "Haryana"
+  },
+  "HR65": {"name": "KURUKSHETRA (Transport) -- HR65","state": "Haryana"
+  },
+  "HR97": {"name": "LADWA (Non Transport) -- HR97","state": "Haryana"
+  },
+  "HR18": {"name": "LOHARU (Non Transport) -- HR18","state": "Haryana"
+  },
+  "HR15": {"name": "MEHAM (Non Transport) -- HR15","state": "Haryana"
+  },
+  "HR74": {"name": "MEWAT (NUH) (Transport) -- HR74","state": "Haryana"
+  },
+  "HR34": {"name": "MOHINDERGARH (Non Transport) -- HR34","state": "Haryana"
+  },
+  "HR66": {"name": "MOHINDERGARH (Transport) -- HR66","state": "Haryana"
+  },
+  "HR04": {"name": "NARAINGARH (Non Transport) -- HR04","state": "Haryana"
+  },
+  "HR35": {"name": "NARNAUL (Non Transport) -- HR35","state": "Haryana"
+  },
+  "HR86": {"name": "NARNAUND (Non Transport) -- HR86","state": "Haryana"
+  },
+  "HR32": {"name": "NARWANA (Non Transport) -- HR32","state": "Haryana"
+  },
+  "HR27": {"name": "NUH (Non Transport) -- HR27","state": "Haryana"
+  },
+  "HR30": {"name": "PALWAL (Non Transport) -- HR30","state": "Haryana"
+  },
+  "HR73": {"name": "PALWAL (Transport) -- HR73","state": "Haryana"
+  },
+  "HR03": {"name": "PANCHKULA (Non Transport) -- HR03","state": "Haryana"
+  },
+  "HR68": {"name": "PANCHKULA (Transport) -- HR68","state": "Haryana"
+  },
+  "HR06": {"name": "PANIPAT (Non Transport) -- HR06","state": "Haryana"
+  },
+  "HR67": {"name": "PANIPAT (Transport) -- HR67","state": "Haryana"
+  },
+  "HR76": {"name": "PATAUDI (Non Transport) -- HR76","state": "Haryana"
+  },
+  "HR41": {"name": "PEHOWA (Non Transport) -- HR41","state": "Haryana"
+  },
+  "HR93": {"name": "PUNHANA (Non Transport) -- HR93","state": "Haryana"
+  },
+  "HR92": {"name": "RADAUR (Non Transport) -- HR92","state": "Haryana"
+  },
+  "HR59": {"name": "RATIA (Non Transport) -- HR59","state": "Haryana"
+  },
+  "HR36": {"name": "REWARI (Non Transport) -- HR36","state": "Haryana"
+  },
+  "HR47": {"name": "REWARI (Transport) -- HR47","state": "Haryana"
+  },
+  "HR12": {"name": "ROHTAK (Non Transport) -- HR12","state": "Haryana"
+  },
+  "HR46": {"name": "ROHTAK (Transport) -- HR46","state": "Haryana"
+  },
+  "HR33": {"name": "SAFIDON (Non Transport) -- HR33","state": "Haryana"
+  },
+  "HR60": {"name": "SAMALKHA (Non Transport) -- HR60","state": "Haryana"
+  },
+  "HR95": {"name": "SAMPLA  -- HR95","state": "Haryana"
+  },
+  "HR78": {"name": "SHAHABAD (Non Transport) -- HR78","state": "Haryana"
+  },
+  "HR24": {"name": "SIRSA (Non Transport) -- HR24","state": "Haryana"
+  },
+  "HR57": {"name": "SIRSA (Transport) -- HR57","state": "Haryana"
+  },
+  "HR17": {"name": "SIWANI (Non Transport) -- HR17","state": "Haryana"
+  },
+  "HR10": {"name": "SONIPAT (Non Transport) -- HR10","state": "Haryana"
+  },
+  "HR69": {"name": "SONIPAT (Transport) -- HR69","state": "Haryana"
+  },
+  "HR96": {"name": "TAURU (Non Transport) -- HR96","state": "Haryana"
+  },
+  "HR07": {"name": "THANESAR (Non Transport) -- HR07","state": "Haryana"
+  },
+  "HR23": {"name": "TOHANA (Non Transport) -- HR23","state": "Haryana"
+  },
+  "HR48": {"name": "TOSHAM (Non Transport) -- HR48","state": "Haryana"
+  },
+  "HR90": {"name": "UCHANA (Non Transport) -- HR90","state": "Haryana"
+  },
+  "HR58": {"name": "YAMUNA NAGAR (Transport) -- HR58","state": "Haryana"
+  },
+  "HP19": {"name": "AMB -- HP19","state": "Himachal Pradesh"
+  },
+  "HP35": {"name": "ANNI -- HP35","state": "Himachal Pradesh"
+  },
+  "HP11": {"name": "ARKI -- HP11","state": "Himachal Pradesh"
+  },
+  "HP53": {"name": "BAIJNATH -- HP53","state": "Himachal Pradesh"
+  },
+  "HP82": {"name": "BALH -- HP82","state": "Himachal Pradesh"
+  },
+  "HP87A": {"name": "BALICHOWKI  -- HP87A","state": "Himachal Pradesh"
+  },
+  "HP78": {"name": "BANGANA -- HP78","state": "Himachal Pradesh"
+  },
+  "HP49": {"name": "BANJAR -- HP49","state": "Himachal Pradesh"
+  },
+  "HP21": {"name": "BARSAR -- HP21","state": "Himachal Pradesh"
+  },
+  "HP46": {"name": "BHARMOUR -- HP46","state": "Himachal Pradesh"
+  },
+  "HP74": {"name": "BHORANJ -- HP74","state": "Himachal Pradesh"
+  },
+  "HP69": {"name": "BILASPUR -- HP69","state": "Himachal Pradesh"
+  },
+  "HP24": {"name": "BILASPUR SADAR -- HP24","state": "Himachal Pradesh"
+  },
+  "HP48": {"name": "CHAMBA (RLA) -- HP48","state": "Himachal Pradesh"
+  },
+  "HP73": {"name": "CHAMBA (RTO) -- HP73","state": "Himachal Pradesh"
+  },
+  "HP08": {"name": "CHAUPAL -- HP08","state": "Himachal Pradesh"
+  },
+  "HP57": {"name": "CHOWARI -- HP57","state": "Himachal Pradesh"
+  },
+  "HP44": {"name": "CHURAH -- HP44","state": "Himachal Pradesh"
+  },
+  "HP47": {"name": "DALHOUSIE -- HP47","state": "Himachal Pradesh"
+  },
+  "HP36": {"name": "DEHRA -- HP36","state": "Himachal Pradesh"
+  },
+  "HP86": {"name": "DHARAMPUR -- HP86","state": "Himachal Pradesh"
+  },
+  "HP39": {"name": "DHARAMPUR -- HP39","state": "Himachal Pradesh"
+  },
+  "HP68": {"name": "DHARAMSHALA(RTO) -- HP68","state": "Himachal Pradesh"
+  },
+  "HP96": {"name": "DHEERA -- HP96","state": "Himachal Pradesh"
+  },
+  "HP77": {"name": "DODRA KAWAR -- HP77","state": "Himachal Pradesh"
+  },
+  "HP88": {"name": "FATEHPUR -- HP88","state": "Himachal Pradesh"
+  },
+  "HP23": {"name": "GHUMARWIN -- HP23","state": "Himachal Pradesh"
+  },
+  "HP32": {"name": "GOHAR -- HP32","state": "Himachal Pradesh"
+  },
+  "HP67": {"name": "HAMIRPUR  -- HP67","state": "Himachal Pradesh"
+  },
+  "HP22": {"name": "HAMIRPUR (RLA) -- HP22","state": "Himachal Pradesh"
+  },
+  "HP80": {"name": "HAROLI -- HP80","state": "Himachal Pradesh"
+  },
+  "HP97": {"name": "INDORA -- HP97","state": "Himachal Pradesh"
+  },
+  "HP56": {"name": "JAISINGHPUR -- HP56","state": "Himachal Pradesh"
+  },
+  "HP83": {"name": "JAWALAMUKHI -- HP83","state": "Himachal Pradesh"
+  },
+  "HP54": {"name": "JAWALI -- HP54","state": "Himachal Pradesh"
+  },
+  "HP89": {"name": "JHANDUTTA -- HP89","state": "Himachal Pradesh"
+  },
+  "HP29": {"name": "JOGINDERNAGAR -- HP29","state": "Himachal Pradesh"
+  },
+  "HP25": {"name": "KALPA -- HP25","state": "Himachal Pradesh"
+  },
+  "HP13": {"name": "KANDAGHAT -- HP13","state": "Himachal Pradesh"
+  },
+  "HP40": {"name": "KANGRA (RLA) -- HP40","state": "Himachal Pradesh"
+  },
+  "HP30": {"name": "KARSOG -- HP30","state": "Himachal Pradesh"
+  },
+  "HP98": {"name": "KASAULI -- HP98","state": "Himachal Pradesh"
+  },
+  "HP41": {"name": "KAZA -- HP41","state": "Himachal Pradesh"
+  },
+  "HP42": {"name": "KEYLONG -- HP42","state": "Himachal Pradesh"
+  },
+  "HP33A": {"name": "KOTLI -- HP33A","state": "Himachal Pradesh"
+  },
+  "HP34": {"name": "KULLU (RLA) -- HP34","state": "Himachal Pradesh"
+  },
+  "HP66": {"name": "KULLU (RTO) -- HP66","state": "Himachal Pradesh"
+  },
+  "HP95": {"name": "KUMARSAIN -- HP95","state": "Himachal Pradesh"
+  },
+  "HP58": {"name": "MANALI -- HP58","state": "Himachal Pradesh"
+  },
+  "HP65": {"name": "MANDI (RTO) -- HP65","state": "Himachal Pradesh"
+  },
+  "HP33": {"name": "MANDI SADAR -- HP33","state": "Himachal Pradesh"
+  },
+  "HP55": {"name": "NADUAN -- HP55","state": "Himachal Pradesh"
+  },
+  "HP94": {"name": "NAGROTA BAGWAN -- HP94","state": "Himachal Pradesh"
+  },
+  "HP18": {"name": "NAHAN  -- HP18","state": "Himachal Pradesh"
+  },
+  "HP71": {"name": "NAHAN  -- HP71","state": "Himachal Pradesh"
+  },
+  "HP12": {"name": "NALAGARH  -- HP12","state": "Himachal Pradesh"
+  },
+  "HP93": {"name": "NALAGARH (RTO) -- HP93","state": "Himachal Pradesh"
+  },
+  "HP26": {"name": "NICHAR (BHABANAGAR) -- HP26","state": "Himachal Pradesh"
+  },
+  "HP35A": {"name": "NIRMAND -- HP35A","state": "Himachal Pradesh"
+  },
+  "HP38": {"name": "NURPUR -- HP38","state": "Himachal Pradesh"
+  },
+  "HP76": {"name": "PADDHAR -- HP76","state": "Himachal Pradesh"
+  },
+  "HP37": {"name": "PALAMPUR -- HP37","state": "Himachal Pradesh"
+  },
+  "HP45": {"name": "PANGI -- HP45","state": "Himachal Pradesh"
+  },
+  "HP15": {"name": "PARWANOO -- HP15","state": "Himachal Pradesh"
+  },
+  "HP17": {"name": "PONTA SAHIB -- HP17","state": "Himachal Pradesh"
+  },
+  "HP27": {"name": "POOH -- HP27","state": "Himachal Pradesh"
+  },
+  "HP16": {"name": "RAJGARH -- HP16","state": "Himachal Pradesh"
+  },
+  "HP06": {"name": "RAMPUR (RLA) -- HP06","state": "Himachal Pradesh"
+  },
+  "HP92": {"name": "RAMPUR (RTO) -- HP92","state": "Himachal Pradesh"
+  },
+  "HP12A": {"name": "RLA ,BADDI -- HP12A","state": "Himachal Pradesh"
+  },
+  "HP19A": {"name": "RLA,GAGRET -- HP19A","state": "Himachal Pradesh"
+  },
+  "HP75": {"name": "RLA JUBBAL -- HP75","state": "Himachal Pradesh"
+  },
+  "HP85A": {"name": "RLA,KAFFOTA -- HP85A","state": "Himachal Pradesh"
+  },
+  "HP99": {"name": "RLA KOTKHAI -- HP99","state": "Himachal Pradesh"
+  },
+  "HP08A": {"name": "RLA KUPVI -- HP08A","state": "Himachal Pradesh"
+  },
+  "HP16A": {"name": "RLA, PACHHAD -- HP16A","state": "Himachal Pradesh"
+  },
+  "HP10": {"name": "ROHRU -- HP10","state": "Himachal Pradesh"
+  },
+  "HP81": {"name": "SALOONI -- HP81","state": "Himachal Pradesh"
+  },
+  "HP79": {"name": "SANGRAH -- HP79","state": "Himachal Pradesh"
+  },
+  "HP28": {"name": "SARKAGHAT -- HP28","state": "Himachal Pradesh"
+  },
+  "HP90": {"name": "SHAHPUR -- HP90","state": "Himachal Pradesh"
+  },
+  "HP85": {"name": "SHILLAI -- HP85","state": "Himachal Pradesh"
+  },
+  "HP63": {"name": "SHIMLA (RTO) -- HP63","state": "Himachal Pradesh"
+  },
+  "HP51": {"name": "SHIMLA-RURAL -- HP51","state": "Himachal Pradesh"
+  },
+  "HP03": {"name": "SHIMLA-URBAN -- HP03","state": "Himachal Pradesh"
+  },
+  "HP14": {"name": "SOLAN (RLA) -- HP14","state": "Himachal Pradesh"
+  },
+  "HP64": {"name": "SOLAN (RTO) -- HP64","state": "Himachal Pradesh"
+  },
+  "HP84": {"name": "SUJANPUR -- HP84","state": "Himachal Pradesh"
+  },
+  "HP31": {"name": "SUNDERNAGAR -- HP31","state": "Himachal Pradesh"
+  },
+  "HP91": {"name": "SWARGHAT -- HP91","state": "Himachal Pradesh"
+  },
+  "HP09": {"name": "THEOG -- HP09","state": "Himachal Pradesh"
+  },
+  "HP87": {"name": "THUNAG -- HP87","state": "Himachal Pradesh"
+  },
+  "HP43": {"name": "UDAIPUR -- HP43","state": "Himachal Pradesh"
+  },
+  "HP20": {"name": "UNA (RLA) -- HP20","state": "Himachal Pradesh"
+  },
+  "HP72": {"name": "UNA (RTO) -- HP72","state": "Himachal Pradesh"
+  },
+  "JK03": {"name": "ANANTNAG -- JK03","state": "Jammu and Kashmir"
+  },
+  "JK15": {"name": "BANDIPORA -- JK15","state": "Jammu and Kashmir"
+  },
+  "JK04": {"name": "BUDGAM -- JK04","state": "Jammu and Kashmir"
+  },
+  "JK06": {"name": "DODA -- JK06","state": "Jammu and Kashmir"
+  },
+  "JK16": {"name": "GANDERBAL -- JK16","state": "Jammu and Kashmir"
+  },
+  "JK02": {"name": "JAMMU -- JK02","state": "Jammu and Kashmir"
+  },
+  "JK08": {"name": "KATHUA -- JK08","state": "Jammu and Kashmir"
+  },
+  "JK17": {"name": "KISHTWAR -- JK17","state": "Jammu and Kashmir"
+  },
+  "JK18": {"name": "KULGAM -- JK18","state": "Jammu and Kashmir"
+  },
+  "JK09": {"name": "KUPWARA -- JK09","state": "Jammu and Kashmir"
+  },
+  "JK12": {"name": "POONCH -- JK12","state": "Jammu and Kashmir"
+  },
+  "JK13": {"name": "PULWAMA -- JK13","state": "Jammu and Kashmir"
+  },
+  "JK11": {"name": "RAJOURI -- JK11","state": "Jammu and Kashmir"
+  },
+  "JK19": {"name": "RAMBAN -- JK19","state": "Jammu and Kashmir"
+  },
+  "JK20": {"name": "REASI -- JK20","state": "Jammu and Kashmir"
+  },
+  "JK21": {"name": "SAMBA -- JK21","state": "Jammu and Kashmir"
+  },
+  "JK22": {"name": "SHOPIAN -- JK22","state": "Jammu and Kashmir"
+  },
+  "JK05": {"name": "SOPORE -- JK05","state": "Jammu and Kashmir"
+  },
+  "JK01": {"name": "SRINAGAR -- JK01","state": "Jammu and Kashmir"
+  },
+  "JK14": {"name": "UDHAMPUR -- JK14","state": "Jammu and Kashmir"
+  },
+   "JH09": {"name": "DTO,BOKARO -- JH09","state": "Jharkhand"
+  },
+  "JH13": {"name": "DTO,CHATRA -- JH13","state": "Jharkhand"
+  },
+  "JH03": {"name": "DTO,DALTONGANJ,PALAMU -- JH03","state": "Jharkhand"
+  },
+  "JH15": {"name": "DTO,DEOGHAR -- JH15","state": "Jharkhand"
+  },
+  "JH10": {"name": "DTO,DHANBAD -- JH10","state": "Jharkhand"
+  },
+  "JH04": {"name": "DTO,DUMKA -- JH04","state": "Jharkhand"
+  },
+  "JH05": {"name": "DTO,EAST SINGHBHUM,JAMSHEDPUR -- JH05","state": "Jharkhand"
+  },
+  "JH14": {"name": "DTO,GARHWA -- JH14","state": "Jharkhand"
+  },
+  "JH11": {"name": "DTO,GIRIDIH -- JH11","state": "Jharkhand"
+  },
+  "JH17": {"name": "DTO,GODDA -- JH17","state": "Jharkhand"
+  },
+  "JH07": {"name": "DTO,GUMLA -- JH07","state": "Jharkhand"
+  },
+  "JH02": {"name": "DTO,HAZARIBAG -- JH02","state": "Jharkhand"
+  },
+  "JH21": {"name": "DTO,JAMTARA -- JH21","state": "Jharkhand"
+  },
+  "JH23": {"name": "DTO, KHUNTI -- JH23","state": "Jharkhand"
+  },
+  "JH12": {"name": "DTO,KODERMA -- JH12","state": "Jharkhand"
+  },
+  "JH19": {"name": "DTO,LATEHAR -- JH19","state": "Jharkhand"
+  },
+  "JH08": {"name": "DTO,LOHARDAGA -- JH08","state": "Jharkhand"
+  },
+  "JH16": {"name": "DTO,PAKUR -- JH16","state": "Jharkhand"
+  },
+  "JH24": {"name": "DTO, RAMGARH -- JH24","state": "Jharkhand"
+  },
+  "JH01": {"name": "DTO,RANCHI -- JH01","state": "Jharkhand"
+  },
+  "JH18": {"name": "DTO,SAHEBGANJ -- JH18","state": "Jharkhand"
+  },
+  "JH22": {"name": "DTO,SARAIKELA-KHARSAWAN -- JH22","state": "Jharkhand"
+  },
+  "JH20": {"name": "DTO,SIMDEGA -- JH20","state": "Jharkhand"
+  },
+  "JH06": {"name": "DTO,WEST SINGHBHUM,CHAIBASA -- JH06","state": "Jharkhand"
+  },"KA70": {"name": "ABANTWALA -- KA70","state": "Karnataka"
+  },
+  "KA68": {"name": "ARANIBENNUR -- KA68","state": "Karnataka"
+  },
+  "KA39": {"name": "ARTO,BHALKI -- KA39","state": "Karnataka"
+  },
+  "KA66": {"name": "ATARIKERE -- KA66","state": "Karnataka"
+  },
+  "KA71": {"name": "ATHANI -- KA71","state": "Karnataka"
+  },
+  "KA29": {"name": "BAGALKOT -- KA29","state": "Karnataka"
+  },
+  "KA24": {"name": "BAILHONGAL -- KA24","state": "Karnataka"
+  },
+  "KA56": {"name": "BASAVAKALYAN -- KA56","state": "Karnataka"
+  },
+  "KA22": {"name": "BELAGAVI -- KA22","state": "Karnataka"
+  },
+  "KA34": {"name": "BELLARY -- KA34","state": "Karnataka"
+  },
+  "KA38": {"name": "BIDAR -- KA38","state": "Karnataka"
+  },
+  "KA10": {"name": "CHAMARAJ NAGAR -- KA10","state": "Karnataka"
+  },
+  "KA59": {"name": "CHANDAPURA -- KA59","state": "Karnataka"
+  },
+  "KA40": {"name": "CHIKKABALLAPURA -- KA40","state": "Karnataka"
+  },
+  "KA18": {"name": "CHIKKAMAGALORE -- KA18","state": "Karnataka"
+  },
+  "KA23": {"name": "CHIKKODI -- KA23","state": "Karnataka"
+  },
+  "KA67": {"name": "CHINTAMANI -- KA67","state": "Karnataka"
+  },
+  "KA16": {"name": "CHITRADURGA -- KA16","state": "Karnataka"
+  },
+  "KA65": {"name": "DANDELI -- KA65","state": "Karnataka"
+  },
+  "KA17": {"name": "DAVANAGERE -- KA17","state": "Karnataka"
+  },
+  "KA43": {"name": "DEVANAHALLI -- KA43","state": "Karnataka"
+  },
+  "KA25": {"name": "DHARWAD -- KA25","state": "Karnataka"
+  },
+  "KA63": {"name": "DHARWAD(EAST) HUBBALLI -- KA63","state": "Karnataka"
+  },
+  "KA51": {"name": "ELECTRONIC CITY -- KA51","state": "Karnataka"
+  },
+  "KA26": {"name": "GADAG -- KA26","state": "Karnataka"
+  },
+  "KA49": {"name": "GOKAK -- KA49","state": "Karnataka"
+  },
+  "KA32": {"name": "GULBARGA -- KA32","state": "Karnataka"
+  },
+  "KA13": {"name": "HASSAN -- KA13","state": "Karnataka"
+  },
+  "KA27": {"name": "HAVERI 581110 -- KA27","state": "Karnataka"
+  },
+  "KA47": {"name": "HONNAVARA -- KA47","state": "Karnataka"
+  },
+  "KA35": {"name": "HOSPET -- KA35","state": "Karnataka"
+  },
+  "KA45": {"name": "HUNSUR -- KA45","state": "Karnataka"
+  },
+  "KA48": {"name": "JAMAKHANDI -- KA48","state": "Karnataka"
+  },
+  "KA05": {"name": "JAYANAGAR -- KA05","state": "Karnataka"
+  },
+  "KA41": {"name": "JNANABHARATHI -- KA41","state": "Karnataka"
+  },
+  "KA30": {"name": "KARWAR -- KA30","state": "Karnataka"
+  },
+  "KA03": {"name": "KASTURI NAGAR -- KA03","state": "Karnataka"
+  },
+  "KA08": {"name": "KGF -- KA08","state": "Karnataka"
+  },
+  "KA07": {"name": "KOLAR -- KA07","state": "Karnataka"
+  },
+  "KA37": {"name": "KOPPAL -- KA37","state": "Karnataka"
+  },
+  "KA53": {"name": "KR PURAM -- KA53","state": "Karnataka"
+  },
+  "KA12": {"name": "MADEIKERI -- KA12","state": "Karnataka"
+  },
+  "KA64": {"name": "MADHUGIRI -- KA64","state": "Karnataka"
+  },
+  "KA11": {"name": "MANDYA -- KA11","state": "Karnataka"
+  },
+  "KA19": {"name": "MANGALORE -- KA19","state": "Karnataka"
+  },
+  "KA55": {"name": "MYSORE EAST -- KA55","state": "Karnataka"
+  },
+  "KA09": {"name": "MYSURU WEST -- KA09","state": "Karnataka"
+  },
+  "KA54": {"name": "NAGAMANGALA -- KA54","state": "Karnataka"
+  },
+  "KA52": {"name": "NELAMANGALA -- KA52","state": "Karnataka"
+  },
+  "KA21": {"name": "PUTTUR -- KA21","state": "Karnataka"
+  },
+  "KA36": {"name": "RAICHUR -- KA36","state": "Karnataka"
+  },
+  "KA02": {"name": "RAJAJINAGAR -- KA02","state": "Karnataka"
+  },
+  "KA69": {"name": "RAMADURGA -- KA69","state": "Karnataka"
+  },
+  "KA42": {"name": "RAMANAGARA -- KA42","state": "Karnataka"
+  },
+  "KA01": {"name": "RTO BANGALORE (CENTRAL), HSR LAYOUT -- KA01","state": "Karnataka"
+  },
+  "KA15": {"name": "SAGAR -- KA15","state": "Karnataka"
+  },
+  "KA46": {"name": "SAKALESHPURA -- KA46","state": "Karnataka"
+  },
+  "KA14": {"name": "SHIVAMOGGA -- KA14","state": "Karnataka"
+  },
+  "KA31": {"name": "SIRSI -- KA31","state": "Karnataka"
+  },
+  "KA44": {"name": "TIPTUR -- KA44","state": "Karnataka"
+  },
+  "KA06": {"name": "TUMKUR -- KA06","state": "Karnataka"
+  },
+  "KA20": {"name": "UDUPI -- KA20","state": "Karnataka"
+  },
+  "KA28": {"name": "VIJAYAPUR -- KA28","state": "Karnataka"
+  },
+  "KA33": {"name": "YADGIRI -- KA33","state": "Karnataka"
+  },
+  "KA50": {"name": "YELAHANKA -- KA50","state": "Karnataka"
+  },
+  "KA04": {"name": "YESHWANTHPUR -- KA04","state": "Karnataka"
+  },
+  "KL26": {"name": "ADOOR -- KL26","state": "Kerala"
+  },
+  "KL04": {"name": "ALAPPUZHA -- KL04","state": "Kerala"
+  },
+  "KL49": {"name": "ALATHUR -- KL49","state": "Kerala"
+  },
+  "KL41": {"name": "ALUVA -- KL41","state": "Kerala"
+  },
+  "KL63": {"name": "ANGAMALI -- KL63","state": "Kerala"
+  },
+  "KL16": {"name": "ATTINGAL -- KL16","state": "Kerala"
+  },
+  "KL82": {"name": "CHADAYAMANGALAM -- KL82","state": "Kerala"
+  },
+  "KL64": {"name": "CHALAKKUDY -- KL64","state": "Kerala"
+  },
+  "KL33": {"name": "CHANGANACHERRY -- KL33","state": "Kerala"
+  },
+  "KL30": {"name": "CHENGANNUR -- KL30","state": "Kerala"
+  },
+  "KL32": {"name": "CHERTHALA -- KL32","state": "Kerala"
+  },
+  "KL70": {"name": "CHITTUR -- KL70","state": "Kerala"
+  },
+  "KL68": {"name": "DEVIKULAM -- KL68","state": "Kerala"
+  },
+  "KL07": {"name": "ERNAKULAM 682030 -- KL07","state": "Kerala"
+  },
+  "KL46": {"name": "GURUVAYOOR -- KL46","state": "Kerala"
+  },
+  "KL06": {"name": "IDUKKI -- KL06","state": "Kerala"
+  },
+  "KL45": {"name": "IRANJALAKKUDA -- KL45","state": "Kerala"
+  },
+  "KL78": {"name": "IRITTY -- KL78","state": "Kerala"
+  },
+  "KL60": {"name": "KANHANGAD -- KL60","state": "Kerala"
+  },
+  "KL34": {"name": "KANJIRAPPALLY -- KL34","state": "Kerala"
+  },
+  "KL13": {"name": "KANNUR -- KL13","state": "Kerala"
+  },
+  "KL23": {"name": "KARUNAGAPPALLY -- KL23","state": "Kerala"
+  },
+  "KL14": {"name": "KASARAGOD -- KL14","state": "Kerala"
+  },
+  "KL74": {"name": "KATTAKKADA -- KL74","state": "Kerala"
+  },
+  "KL29": {"name": "KAYAMKULAM -- KL29","state": "Kerala"
+  },
+  "KL22": {"name": "KAZHAKUTTOM -- KL22","state": "Kerala"
+  },
+  "KL47": {"name": "KODUNGALLUR -- KL47","state": "Kerala"
+  },
+  "KL57": {"name": "KODUVALLY -- KL57","state": "Kerala"
+  },
+  "KL02": {"name": "KOLLAM -- KL02","state": "Kerala"
+  },
+  "KL84": {"name": "KONDOTTY -- KL84","state": "Kerala"
+  },
+  "KL83": {"name": "KONNI -- KL83","state": "Kerala"
+  },
+  "KL44": {"name": "KOTHAMANGALAM -- KL44","state": "Kerala"
+  },
+  "KL24": {"name": "KOTTARAKKARA -- KL24","state": "Kerala"
+  },
+  "KL05": {"name": "KOTTAYAM -- KL05","state": "Kerala"
+  },
+  "KL56": {"name": "KOYILANDY -- KL56","state": "Kerala"
+  },
+  "KL11": {"name": "KOZHIKODE -- KL11","state": "Kerala"
+  },
+  "KL61": {"name": "KUNNATHUR -- KL61","state": "Kerala"
+  },
+  "KL66": {"name": "KUTTANADU -- KL66","state": "Kerala"
+  },
+  "KL10": {"name": "MALAPPURAM -- KL10","state": "Kerala"
+  },
+  "KL28": {"name": "MALLAPPALLY -- KL28","state": "Kerala"
+  },
+  "KL72": {"name": "MANANTHAVADY -- KL72","state": "Kerala"
+  },
+  "KL50": {"name": "MANNARKKAD -- KL50","state": "Kerala"
+  },
+  "KL43": {"name": "MATTANCHERRY -- KL43","state": "Kerala"
+  },
+  "KL31": {"name": "MAVELIKKARA -- KL31","state": "Kerala"
+  },
+  "KL17": {"name": "MUVATTUPUZHA -- KL17","state": "Kerala"
+  },
+  "KL76": {"name": "NANMANDA -- KL76","state": "Kerala"
+  },
+  "KL15": {"name": "NATIONAL SECTOR  -- KL15","state": "Kerala"
+  },
+  "KL21": {"name": "NEDUMANGAD -- KL21","state": "Kerala"
+  },
+  "KL20": {"name": "NEYYATTINKARA -- KL20","state": "Kerala"
+  },
+  "KL71": {"name": "NILAMBUR -- KL71","state": "Kerala"
+  },
+  "KL42": {"name": "NORTH PARAVOOR -- KL42","state": "Kerala"
+  },
+  "KL51": {"name": "OTTAPPALAM -- KL51","state": "Kerala"
+  },
+  "KL35": {"name": "PALA -- KL35","state": "Kerala"
+  },
+  "KL09": {"name": "PALAKKAD -- KL09","state": "Kerala"
+  },
+  "KL19": {"name": "PARASSALA -- KL19","state": "Kerala"
+  },
+  "KL03": {"name": "PATHANAMTHITTA -- KL03","state": "Kerala"
+  },
+  "KL80": {"name": "PATHANAPURAM -- KL80","state": "Kerala"
+  },
+  "KL52": {"name": "PATTAMBI -- KL52","state": "Kerala"
+  },
+  "KL86": {"name": "PAYYANNUR -- KL86","state": "Kerala"
+  },
+  "KL77": {"name": "PERAMBRA -- KL77","state": "Kerala"
+  },
+  "KL53": {"name": "PERINTHALMANNA -- KL53","state": "Kerala"
+  },
+  "KL40": {"name": "PERUMBAVOOR -- KL40","state": "Kerala"
+  },
+  "KL54": {"name": "PONNANI -- KL54","state": "Kerala"
+  },
+  "KL25": {"name": "PUNALUR -- KL25","state": "Kerala"
+  },
+  "KL85": {"name": "RAMANATTUKARA (FEROKE) -- KL85","state": "Kerala"
+  },
+  "KL62": {"name": "RANNI -- KL62","state": "Kerala"
+  },
+  "KL73": {"name": "SULTHANBATHERY -- KL73","state": "Kerala"
+  },
+  "KL58": {"name": "THALASSERY -- KL58","state": "Kerala"
+  },
+  "KL59": {"name": "THALIPARAMBA -- KL59","state": "Kerala"
+  },
+  "KL65": {"name": "THIRURANGADI -- KL65","state": "Kerala"
+  },
+  "KL27": {"name": "THIRUVALLA -- KL27","state": "Kerala"
+  },
+  "KL01": {"name": "THIRUVANANTHAPURAM -- KL01","state": "Kerala"
+  },
+  "KL38": {"name": "THODUPUZHA - 685584 -- KL38","state": "Kerala"
+  },
+  "KL75": {"name": "THRIPRAYAR -- KL75","state": "Kerala"
+  },
+  "KL08": {"name": "THRISSUR -- KL08","state": "Kerala"
+  },
+  "KL55": {"name": "TIRUR -- KL55","state": "Kerala"
+  },
+  "KL39": {"name": "TRIPUNITHURA -- KL39","state": "Kerala"
+  },
+  "KL69": {"name": "UDUMBANCHOLA -- KL69","state": "Kerala"
+  },
+  "KL67": {"name": "UZHAVOOR -- KL67","state": "Kerala"
+  },
+  "KL18": {"name": "VADAKARA -- KL18","state": "Kerala"
+  },
+  "KL48": {"name": "VADAKKANCHERRY -- KL48","state": "Kerala"
+  },
+  "KL36": {"name": "VAIKKOM -- KL36","state": "Kerala"
+  },
+  "KL37": {"name": "VANDIPERIYAR -- KL37","state": "Kerala"
+  },
+  "KL81": {"name": "VARKALA -- KL81","state": "Kerala"
+  },
+  "KL79": {"name": "VELLARIKUNDU -- KL79","state": "Kerala"
+  },
+  "KL12": {"name": "WAYANAD -- KL12","state": "Kerala"
+  },
+  "TN55X": { "name": "ALANGUDI UO -- TN55X", "state": "Tamil Nadu" },
+  "TN72U": { "name": "AMBASAMUTHIRAM, UO -- TN72U", "state": "Tamil Nadu" },
+  "TN13": { "name": "AMBATTUR RTO -- TN13", "state": "Tamil Nadu" },
+  "TN83Y": { "name": "AMBUR UO -- TN83Y", "state": "Tamil Nadu" },
+  "TN97": { "name": "ARANI RTO -- TN97", "state": "Tamil Nadu" },
+  "TN55Z": { "name": "ARANTHANGI UO -- TN55Z", "state": "Tamil Nadu" },
+  "TN47Y": { "name": "ARAVAKURICHI UO -- TN47Y", "state": "Tamil Nadu" },
+  "TN61": { "name": "ARIYALUR RTO -- TN61", "state": "Tamil Nadu" },
+  "TN67W": { "name": "ARUPPUKOTTAI UO -- TN67W", "state": "Tamil Nadu" },
+  "TN77": { "name": "ATTUR RTO PIN :636108. -- TN77", "state": "Tamil Nadu" },
+  "TN39Z": { "name": "AVINASHI UO -- TN39Z", "state": "Tamil Nadu" },
+  "TN57W": { "name": "BATLAGUNDU (UO) -- TN57W", "state": "Tamil Nadu" },
+  "TN36W": { "name": "BHAVANI -- TN36W", "state": "Tamil Nadu" },
+  "TN19": { "name": "CHENGALPATTU RTO -- TN19", "state": "Tamil Nadu" },
+  "TN01": { "name": "CHENNAI -- TN01", "state": "Tamil Nadu" },
+  "TN02": { "name": "CHENNAI 600102 -- TN02", "state": "Tamil Nadu" },
+  "TN04": { "name": "CHENNAI (EAST) RTO -- TN04", "state": "Tamil Nadu" },
+  "TN03": { "name": "CHENNAI (NORTH EAST) RTO -- TN03", "state": "Tamil Nadu" },
+  "TN05": { "name": "CHENNAI(NORTH) RTO -- TN05", "state": "Tamil Nadu" },
+  "TN06": { "name": "CHENNAI (SOUTH EAST) RTO -- TN06", "state": "Tamil Nadu" },
+  "TN07": { "name": "CHENNAI (SOUTH) RTO -- TN07", "state": "Tamil Nadu" },
+  "TN10": { "name": "CHENNAI (SOUTH WEST) RTO -- TN10", "state": "Tamil Nadu" },
+  "TN09": { "name": "CHENNAI (WEST) RTO -- TN09", "state": "Tamil Nadu" },
+  "TN91": { "name": "CHIDAMBARAM RTO -- TN91", "state": "Tamil Nadu" },
+  "TN66": { "name": "COIMBATORE (CENTRAL) RTO -- TN66", "state": "Tamil Nadu" },
+  "TN38": { "name": "COIMBATORE (NORTH) RTO -- TN38", "state": "Tamil Nadu" },
+  "TN37": { "name": "COIMBATORE (SOUTH) RTO -- TN37", "state": "Tamil Nadu" },
+  "TN99": { "name": "COIMBATORE (WEST) RTO -- TN99", "state": "Tamil Nadu" },
+  "TN31": { "name": "CUDDALORE RTO -- TN31", "state": "Tamil Nadu" },
+  "TN78": { "name": "DHARAPURAM -- TN78", "state": "Tamil Nadu" },
+  "TN29": { "name": "DHARMAPURI RTO -- TN29", "state": "Tamil Nadu" },
+  "TN57": { "name": "DINDIGUL RTO -- TN57", "state": "Tamil Nadu" },
+  "TN94": { "name": "DINDUGAL DT 624601 -- TN94", "state": "Tamil Nadu" },
+  "TN86": { "name": "ERODE-638004 -- TN86", "state": "Tamil Nadu" },
+  "TN33": { "name": "ERODE (EAST) RTO -- TN33", "state": "Tamil Nadu" },
+  "TN16Z": { "name": "GINGEE TALUK 604153 -- TN16Z", "state": "Tamil Nadu" },
+  "TN36": { "name": "GOBICHETTIPALAYAM RTO -- TN36", "state": "Tamil Nadu" },
+  "TN43Z": { "name": "GUDALUR UO -- TN43Z", "state": "Tamil Nadu" },
+  "TN23T": { "name": "GUDIYATHAM UO -- TN23T", "state": "Tamil Nadu" },
+  "TN18Y": { "name": "GUMIDIPOONDI UO -- TN18Y", "state": "Tamil Nadu" },
+  "TN29T": { "name": "HARUR UO -- TN29T", "state": "Tamil Nadu" },
+  "TN70": { "name": "HOSUR -- TN70", "state": "Tamil Nadu" },
+  "TN55Y": { "name": "ILLUPPUR UO -- TN55Y", "state": "Tamil Nadu" },
+  "TN15M": { "name": "KALLAKURICHI RTO -- TN15M", "state": "Tamil Nadu" },
+  "TN21": { "name": "KANCHEEPURAM RTO -- TN21", "state": "Tamil Nadu" },
+  "TN42Y": { "name": "KANGAYAM(TN42Y) UO -- TN42Y", "state": "Tamil Nadu" },
+  "TN63Z": { "name": "KARAIKUDI UO -- TN63Z", "state": "Tamil Nadu" },
+  "TN47": { "name": "KARUR RTO -- TN47", "state": "Tamil Nadu" },
+  "TN96": { "name": "KOVILPATTI RTO -- TN96", "state": "Tamil Nadu" },
+  "TN24": { "name": "KRISHNAGIRI RTO -- TN24", "state": "Tamil Nadu" },
+  "TN47Z": { "name": "KULITHALAI UO -- TN47Z", "state": "Tamil Nadu" },
+  "TN68": { "name": "KUMBAKONAM RTO -- TN68", "state": "Tamil Nadu" },
+  "TN85": { "name": "KUNDRATHUR RTO -- TN85", "state": "Tamil Nadu" },
+  "TN48X": { "name": "LALKUDI UO -- TN48X", "state": "Tamil Nadu" },
+  "TN64": { "name": "MADURAI (CENTRAL) RTO -- TN64", "state": "Tamil Nadu" },
+  "TN59": { "name": "MADURAI (NORTH) RTO -- TN59", "state": "Tamil Nadu" },
+  "TN58": { "name": "MADURAI RTO -- TN58", "state": "Tamil Nadu" },
+  "TN19Z": { "name": "MADURANTAGAM UO -- TN19Z", "state": "Tamil Nadu" },
+  "TN45Z": { "name": "MANAPARAI UO -- TN45Z", "state": "Tamil Nadu" },
+  "TN47X": { "name": "MANMANGALAM UO -- TN47X", "state": "Tamil Nadu" },
+  "TN50Z": { "name": "MANNARKUDI UO -- TN50Z", "state": "Tamil Nadu" },
+  "TN75": { "name": "MARTHANDAM UO -- TN75", "state": "Tamil Nadu" },
+  "TN82": { "name": "MAYILADUTHURAI RTO -- TN82", "state": "Tamil Nadu" },
+  "TN22": { "name": "MEENAMBAKKAM RTO -- TN22", "state": "Tamil Nadu" },
+  "TN59Z": { "name": "MELUR UO -- TN59Z", "state": "Tamil Nadu" },
+  "TN40": { "name": "METTUPALAYAM RTO -- TN40", "state": "Tamil Nadu" },
+  "TN93": { "name": "METTUR RTO -- TN93", "state": "Tamil Nadu" },
+  "TN51": { "name": "NAGAPATTINAM RTO -- TN51", "state": "Tamil Nadu" },
+  "TN74": { "name": "NAGERCOIL RTO -- TN74", "state": "Tamil Nadu" },
+  "TN34M": { "name": "NAMAKKAL DT - 638008 -- TN34M", "state": "Tamil Nadu" },
+  "TN28": { "name": "NAMAKKAL(NORTH) RTO -- TN28", "state": "Tamil Nadu" },
+  "TN57S": { "name": "NATHAM UO -- TN57S", "state": "Tamil Nadu" },
+  "TN91Y": { "name": "NEYVELI UO -- TN91Y", "state": "Tamil Nadu" },
+  "TN94Z": { "name": "ODDANCHATRAM UO -- TN94Z", "state": "Tamil Nadu" },
+  "TN30W": { "name": "OMALUR UO -- TN30W", "state": "Tamil Nadu" },
+  "TN43": { "name": "OOTY RTO -- TN43", "state": "Tamil Nadu" },
+  "TN31Z": { "name": "PANRUTI UO -- TN31Z", "state": "Tamil Nadu" },
+  "TN65Z": { "name": "PARAMAKUDI UO -- TN65Z", "state": "Tamil Nadu" },
+  "TN88Z": { "name": "PARAMATHIVELLUR UO -- TN88Z", "state": "Tamil Nadu" },
+  "TN49Y": { "name": "PATTUKOTTAI UO -- TN49Y", "state": "Tamil Nadu" },
+  "TN46": { "name": "PERAMBALUR RTO -- TN46", "state": "Tamil Nadu" },
+  "TN56": { "name": "PERUNDURAI RTO -- TN56", "state": "Tamil Nadu" },
+  "TN41": { "name": "POLLACHI RTO -- TN41", "state": "Tamil Nadu" },
+  "TN12": { "name": "POONAMALEE -- TN12", "state": "Tamil Nadu" },
+  "TN55": { "name": "PUDUKOTTAI RTO -- TN55", "state": "Tamil Nadu" },
+  "TN65": { "name": "RAMANATHAPURAM RTO -- TN65", "state": "Tamil Nadu" },
+  "TN73": { "name": "RANIPET RTO -- TN73", "state": "Tamil Nadu" },
+  "TN28Z": { "name": "RASIPURAM UO -- TN28Z", "state": "Tamil Nadu" },
+  "TN18": { "name": "REDHILLS RTO -- TN18", "state": "Tamil Nadu" },
+  "TN88": { "name": "RTO NAMMAKL SOUTH -- TN88", "state": "Tamil Nadu" },
+  "TN30": { "name": "RTO SALEM WEST -- TN30", "state": "Tamil Nadu" },
+  "TN54": { "name": "SALEM RTO -- TN54", "state": "Tamil Nadu" },
+  "TN90": { "name": "SALEM (SOUTH) RTO -- TN90", "state": "Tamil Nadu" },
+  "TN52": { "name": "SANGAGIRI TK SALEM DT -- TN52", "state": "Tamil Nadu" },
+  "TN79": { "name": "SANKARANKOVIL RTO -- TN79", "state": "Tamil Nadu" },
+  "TN36Z": { "name": "SATHIAMANGALAM UO -- TN36Z", "state": "Tamil Nadu" },
+  "TN14": { "name": "SHOLINGANALLUR RTO -- TN14", "state": "Tamil Nadu" },
+  "TN82Z": { "name": "SIRKALI -- TN82Z", "state": "Tamil Nadu" },
+  "TN63": { "name": "SIVAGANGAI RTO -- TN63", "state": "Tamil Nadu" },
+  "TN95": { "name": "SIVAKASI RTO -- TN95", "state": "Tamil Nadu" },
+  "TN87": { "name": "SRIPERUMBUDUR RTO -- TN87", "state": "Tamil Nadu" },
+  "TN48": { "name": "SRIRANGAM RTO -- TN48", "state": "Tamil Nadu" },
+  "TN84": { "name": "SRIVILLIPUTHUR RTO -- TN84", "state": "Tamil Nadu" },
+  "TN37Z": { "name": "SULUR UO -- TN37Z", "state": "Tamil Nadu" },
+  "TN11": { "name": "TAMBARAM RTO -- TN11", "state": "Tamil Nadu" },
+  "TN76": { "name": "TENKASI RTO -- TN76", "state": "Tamil Nadu" },
+  "TN49": { "name": "THANJAVUR RTO -- TN49", "state": "Tamil Nadu" },
+  "TN60": { "name": "THENI RTO -- TN60", "state": "Tamil Nadu" },
+  "TN19Y": { "name": "THIRUKALUKUNDRA -- TN19Y", "state": "Tamil Nadu" },
+  "TN58Z": { "name": "THIRUMANGALAM RTO -- TN58Z", "state": "Tamil Nadu" },
+  "TN50Y": { "name": "THIRUTHURAIPOONDI UO -- TN50Y", "state": "Tamil Nadu" },
+  "TN20": { "name": "THIRUVALLUR RTO -- TN20", "state": "Tamil Nadu" },
+  "TN16": { "name": "TINDIVANAM RTO -- TN16", "state": "Tamil Nadu" },
+  "TN34": { "name": "TIRUCHENCODE RTO -- TN34", "state": "Tamil Nadu" },
+  "TN92": { "name": "TIRUCHENDUR RTO -- TN92", "state": "Tamil Nadu" },
+  "TN81": { "name": "TIRUCHIRAPPALLI RTO -- TN81", "state": "Tamil Nadu" },
+  "TN72": { "name": "TIRUNELVELI RTO -- TN72", "state": "Tamil Nadu" },
+  "TN83M": { "name": "TIRUPATTUR RTO -- TN83M", "state": "Tamil Nadu" },
+  "TN39": { "name": "TIRUPUR - 641 603 -- TN39", "state": "Tamil Nadu" },
+  "TN42": { "name": "TIRUPUR (SOUTH) RTO -- TN42", "state": "Tamil Nadu" },
+  "TN20X": { "name": "TIRUTTANI UO -- TN20X", "state": "Tamil Nadu" },
+  "TN25": { "name": "TIRUVANAMALAI RTO -- TN25", "state": "Tamil Nadu" },
+  "TN50": { "name": "TIRUVARUR RTO -- TN50", "state": "Tamil Nadu" },
+  "TN81Z": { "name": "TIRUVERAMBUR -- TN81Z", "state": "Tamil Nadu" },
+  "TN45": { "name": "TRICHY (WEST) RTO -- TN45", "state": "Tamil Nadu" },
+  "TN69": { "name": "TUTICORIN RTO -- TN69", "state": "Tamil Nadu" },
+  "TN78M": { "name": "UDUMALPET RTO -- TN78M", "state": "Tamil Nadu" },
+  "TN15": { "name": "ULUNDURPET RTO -- TN15", "state": "Tamil Nadu" },
+  "TN73Z": { "name": "UNIT OFFICE ARAKKONAM -- TN73Z", "state": "Tamil Nadu" },
+  "TN76Y": { "name": "UO ALANGULAM -- TN76Y", "state": "Tamil Nadu" },
+  "TN97Z": { "name": "UO, CHEYYAR -- TN97Z", "state": "Tamil Nadu" },
+  "TN48Y": { "name": "UO, MUSURI -- TN48Y", "state": "Tamil Nadu" },
+  "TN29W": { "name": "UO, PALACODE -- TN29W", "state": "Tamil Nadu" },
+  "TN84Y": { "name": "UO RAJAPALAYAM -- TN84Y", "state": "Tamil Nadu" },
+  "TN48Z": { "name": "UO THURAIYUR -- TN48Z", "state": "Tamil Nadu" },
+  "TN58Y": { "name": "UO USILAMPATTI -- TN58Y", "state": "Tamil Nadu" },
+  "TN60Z": { "name": "UTHAMAPALAYAM UO -- TN60Z", "state": "Tamil Nadu" },
+  "TN59V": { "name": "VADIPATTI UO -- TN59V", "state": "Tamil Nadu" },
+  "TN72V": { "name": "VALLIYUR UO -- TN72V", "state": "Tamil Nadu" },
+  "TN41W": { "name": "VALPARAI UO -- TN41W", "state": "Tamil Nadu" },
+  "TN83": { "name": "VANIYAMBADI RTO -- TN83", "state": "Tamil Nadu" },
+  "TN77Z": { "name": "VAZHAPPADI UO -- TN77Z", "state": "Tamil Nadu" },
+  "TN57V": { "name": "VEDASANDUR UO -- TN57V", "state": "Tamil Nadu" },
+  "TN23": { "name": "VELLORE RTO -- TN23", "state": "Tamil Nadu" },
+  "TN32": { "name": "VILUPPURAM RTO -- TN32", "state": "Tamil Nadu" },
+  "TN91Z": { "name": "VIRUDHACHALAM UO -- TN91Z", "state": "Tamil Nadu" },
+  "TN67": { "name": "VIRUDHUNAGAR -- TN67", "state": "Tamil Nadu" },
+   "UP80": { "name": "AGRA -- UP80", "state": "Uttar Pradesh" },
+  "UP81": { "name": "ALIGARH -- UP81", "state": "Uttar Pradesh" },
+  "UP45": { "name": "AMBEDKAR NAGAR -- UP45", "state": "Uttar Pradesh" },
+  "UP36": { "name": "AMETHI -- UP36", "state": "Uttar Pradesh" },
+  "UP79": { "name": "AURAIYA -- UP79", "state": "Uttar Pradesh" },
+  "UP42": { "name": "AYODHYA -- UP42", "state": "Uttar Pradesh" },
+  "UP50": { "name": "AZAMGARH -- UP50", "state": "Uttar Pradesh" },
+  "UP24": { "name": "BADAUN -- UP24", "state": "Uttar Pradesh" },
+  "UP17": { "name": "BAGHPAT -- UP17", "state": "Uttar Pradesh" },
+  "UP40": { "name": "BAHRAICH -- UP40", "state": "Uttar Pradesh" },
+  "UP60": { "name": "BALLIA -- UP60", "state": "Uttar Pradesh" },
+  "UP47": { "name": "BALRAMPUR -- UP47", "state": "Uttar Pradesh" },
+  "UP90": { "name": "BANDA -- UP90", "state": "Uttar Pradesh" },
+  "UP41": { "name": "BARABANKI -- UP41", "state": "Uttar Pradesh" },
+  "UP25": { "name": "BAREILLY -- UP25", "state": "Uttar Pradesh" },
+  "UP51": { "name": "BASTI -- UP51", "state": "Uttar Pradesh" },
+  "UP66": { "name": "BHADOHI -- UP66", "state": "Uttar Pradesh" },
+  "UP20": { "name": "BIJNOR -- UP20", "state": "Uttar Pradesh" },
+  "UP13": { "name": "BULANDSHAHAR -- UP13", "state": "Uttar Pradesh" },
+  "UP67": { "name": "CHANDAULI -- UP67", "state": "Uttar Pradesh" },
+  "UP96": { "name": "CHITRAKOOT DHAM -- UP96", "state": "Uttar Pradesh" },
+  "UP52": { "name": "DEORIA -- UP52", "state": "Uttar Pradesh" },
+  "UP82": { "name": "ETAH -- UP82", "state": "Uttar Pradesh" },
+  "UP75": { "name": "ETAWAH -- UP75", "state": "Uttar Pradesh" },
+  "UP76": { "name": "FARRUKHABAD -- UP76", "state": "Uttar Pradesh" },
+  "UP71": { "name": "FATEHPUR -- UP71", "state": "Uttar Pradesh" },
+  "UP83": { "name": "FIROZABAD -- UP83", "state": "Uttar Pradesh" },
+  "UP16": { "name": "GAUTAMBUDHNAGAR -- UP16", "state": "Uttar Pradesh" },
+  "UP14": { "name": "GHAZIABAD -- UP14", "state": "Uttar Pradesh" },
+  "UP61": { "name": "GHAZIPUR -- UP61", "state": "Uttar Pradesh" },
+  "UP43": { "name": "GONDA -- UP43", "state": "Uttar Pradesh" },
+  "UP53": { "name": "GORAKHPUR -- UP53", "state": "Uttar Pradesh" },
+  "UP91": { "name": "HAMIRPUR -- UP91", "state": "Uttar Pradesh" },
+  "UP37": { "name": "HAPUR -- UP37", "state": "Uttar Pradesh" },
+  "UP30": { "name": "HARDOI -- UP30", "state": "Uttar Pradesh" },
+  "UP86": { "name": "HATRAS -- UP86", "state": "Uttar Pradesh" },
+  "UP92": { "name": "JALAUN -- UP92", "state": "Uttar Pradesh" },
+  "UP62": { "name": "JAUNPUR -- UP62", "state": "Uttar Pradesh" },
+  "UP93": { "name": "JHANSI -- UP93", "state": "Uttar Pradesh" },
+  "UP23": { "name": "JYOTIBAPHULE NAGAR -- UP23", "state": "Uttar Pradesh" },
+  "UP74": { "name": "KANNAUJ -- UP74", "state": "Uttar Pradesh" },
+  "UP77": { "name": "KANPUR DEHAT -- UP77", "state": "Uttar Pradesh" },
+  "UP78": { "name": "KANPUR NAGAR -- UP78", "state": "Uttar Pradesh" },
+  "UP87": { "name": "KASGANJ -- UP87", "state": "Uttar Pradesh" },
+  "UP73": { "name": "KAUSHAMBI -- UP73", "state": "Uttar Pradesh" },
+  "UP31": { "name": "LAKHIMPUR KHERI -- UP31", "state": "Uttar Pradesh" },
+  "UP94": { "name": "LALITPUR -- UP94", "state": "Uttar Pradesh" },
+  "UP32": { "name": "LUCKNOW (RTO) -- UP32", "state": "Uttar Pradesh" },
+  "UP32A": { "name": "LUCKNOW-TRANS GOMTI -- UP32A", "state": "Uttar Pradesh" },
+  "UP56": { "name": "MAHARAJGANJ -- UP56", "state": "Uttar Pradesh" },
+  "UP95": { "name": "MAHOBA -- UP95", "state": "Uttar Pradesh" },
+  "UP84": { "name": "MAINPURI -- UP84", "state": "Uttar Pradesh" },
+  "UP85": { "name": "MATHURA -- UP85", "state": "Uttar Pradesh" },
+  "UP54": { "name": "MAU -- UP54", "state": "Uttar Pradesh" },
+  "UP15": { "name": "MEERUT 250001 -- UP15", "state": "Uttar Pradesh" },
+  "UP63": { "name": "MIRZAPUR -- UP63", "state": "Uttar Pradesh" },
+  "UP21": { "name": "MORADABAD -- UP21", "state": "Uttar Pradesh" },
+  "UP12": { "name": "MUZAFFARNAGAR -- UP12", "state": "Uttar Pradesh" },
+  "UP57": { "name": "PADRAUNA (KUSHINAGAR) -- UP57", "state": "Uttar Pradesh" },
+  "UP26": { "name": "PILIBHIT -- UP26", "state": "Uttar Pradesh" },
+  "UP72": { "name": "PRATAPGARH -- UP72", "state": "Uttar Pradesh" },
+  "UP70": { "name": "PRAYAGRAJ -- UP70", "state": "Uttar Pradesh" },
+  "UP33": { "name": "RAEBARELI -- UP33", "state": "Uttar Pradesh" },
+  "UP22": { "name": "RAMPUR -- UP22", "state": "Uttar Pradesh" },
+  "UP11": { "name": "SAHARANPUR -- UP11", "state": "Uttar Pradesh" },
+  "UP38": { "name": "SAMBHAL -- UP38", "state": "Uttar Pradesh" },
+  "UP58": { "name": "SANT KABIR NAGAR -- UP58", "state": "Uttar Pradesh" },
+  "UP27": { "name": "SHAHJAHANPUR -- UP27", "state": "Uttar Pradesh" },
+  "UP19": { "name": "SHAMLI -- UP19", "state": "Uttar Pradesh" },
+  "UP46": { "name": "SHRAVASTI -- UP46", "state": "Uttar Pradesh" },
+  "UP55": { "name": "SIDDHARTHNAGAR -- UP55", "state": "Uttar Pradesh" },
+  "UP34": { "name": "SITAPUR -- UP34", "state": "Uttar Pradesh" },
+  "UP64": { "name": "SONBHADRA -- UP64", "state": "Uttar Pradesh" },
+  "UP44": { "name": "SULTANPUR -- UP44", "state": "Uttar Pradesh" },
+  "UP35": { "name": "UNNAO -- UP35", "state": "Uttar Pradesh" },
+  "UP65": { "name": "VARANASI (RTO) -- UP65", "state": "Uttar Pradesh" },
+  "UP65A": { "name": "VARANASI (RTO ECO) -- UP65A", "state": "Uttar Pradesh" }
+  
+}
